@@ -75,7 +75,7 @@ COPY - promo2024 - Скопировать промокод
 ## Структура проекта
 
 ```
-lokitov/
+MailingManager/
 ├── org/
 │   ├── main.ts        # Логика бота
 │   ├── db.ts          # SQLite (better-sqlite3)
